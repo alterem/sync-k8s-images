@@ -16,4 +16,4 @@ jobs:
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
         # kubernetes_version: ${{ secrets.KUBERNETES_VERSION }}
-        repository: v5cn
+        repository: alterem
